@@ -1,0 +1,17 @@
+module.exports = {
+  root: {
+    RPC: "https://mainnet.infura.io/v3/dab7160ce6f641f29e961a1762661a97",
+    DERC20: "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D",  // KIWI ROOT ADDRESS https://etherscan.io/token/0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d 
+  },
+  child: {
+    RPC: "https://rpc-mainnet.matic.network",
+    DERC20: "0x578360AdF0BbB2F10ec9cEC7EF89Ef495511ED5f",  // KIWI CHILD ADDRESS https://explorer.matic.network/address/0x578360AdF0BbB2F10ec9cEC7EF89Ef495511ED5f/contracts
+  },
+  user: {
+    privateKey:
+      "YOUR PK HERE",
+    address: "0x123ABC_YOUR_ADDRESS_HERE",
+    amount: "30000000000000", // Transfer 300,000 KIWI - CHANGE THIS
+    amount1: "1000000000000000000", // Approve 10bn KIWI - NO NEED TO CHANGE
+  },
+};
