@@ -1,6 +1,6 @@
 module.exports = {
   root: {
-    RPC: "https://mainnet.infura.io/v3/dab7160ce6f641f29e961a1762661a97",
+    RPC: "https://mainnet.infura.io/v3/YOUR_INFURA_KEY",
     DERC20: "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D",  // KIWI ROOT ADDRESS https://etherscan.io/token/0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d 
   },
   child: {
