@@ -21,13 +21,15 @@ create config.js in root directory, refer contents from config.js.template
     "child": "0x556f501CF8a43216Df5bc9cC57Eb04D4FFAA9e6D"
   }
 
+Tokens must be mapped by Matic team - you can't do it by yourself.
+
 # Move Tokens from Mainnet to Matic
 
 copy config.js.kiwi config.js
 
 cd ERC20
 
-Step 1: Approve
+## Step 1: Approve
 
 node approve.js
 
@@ -35,13 +37,15 @@ wait transaction to be mined
 
 see example https://etherscan.io/tx/0xcdb5bbbf0f923865362d3bc6ef880ebea858b5ae99e602c7e22f91d448b9ef88
 
-Step 2 Deposit
+## Step 2 Deposit
 
 node deposit.js
 
 wait transaction to be mined
 
 see example https://etherscan.io/tx/0x1b2194bb184c74cbcfb5abc555d0471d117b4f55abddd4bc154974ff94000fdc
+
+## Check Results
 
 WAIT 10 minutes!
 
