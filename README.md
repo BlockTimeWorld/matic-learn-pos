@@ -1,8 +1,8 @@
 # PoS Bridge for Matic
 
-Run npm i to install dependencies<br/>
+Run `npm i` to install dependencies<br/>
 
-create config.js in root directory, refer contents from config.js.template
+Create config.js in root directory, refer contents from config.js.template
 
 # Tokens on Focus
 
@@ -25,13 +25,13 @@ Tokens must be mapped by Matic team - you can't do it by yourself.
 
 # Move Tokens from Mainnet to Matic
 
-copy config.js.kiwi config.js
+`copy config.js.kiwi config.js`
 
-cd ERC20
+`cd ERC20`
 
 ## Step 1: Approve
 
-node approve.js
+`node approve.js`
 
 wait transaction to be mined
 
@@ -39,7 +39,7 @@ see example https://etherscan.io/tx/0xcdb5bbbf0f923865362d3bc6ef880ebea858b5ae99
 
 ## Step 2 Deposit
 
-node deposit.js
+`node deposit.js`
 
 wait transaction to be mined
 
