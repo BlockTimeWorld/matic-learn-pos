@@ -1,0 +1,17 @@
+module.exports = {
+  root: {
+    RPC: "https://mainnet.infura.io/v3/YOUR_INFURA_KEY",
+    DERC20: "0xbca3c97837a39099ec3082df97e28ce91be14472",  // ROOT ADDRESS https://etherscan.io/token/0xbca3c97837a39099ec3082df97e28ce91be14472 
+  },
+  child: {
+    RPC: "https://rpc-mainnet.matic.network",
+    DERC20: "0x556f501CF8a43216Df5bc9cC57Eb04D4FFAA9e6D",  // CHILD ADDRESS https://explorer.matic.network/address/0x556f501CF8a43216Df5bc9cC57Eb04D4FFAA9e6D/contracts
+  },
+  user: {
+    privateKey:
+      "YOUR PK HERE",
+    address: "0x123ABC_YOUR_ADDRESS_HERE",
+    amount: "100000000000000", // Transfer 1000000 DUST - CHANGE THIS
+    amount1: "100000000000000000", // Approve 1bn 0xBTC - NO NEED TO CHANGE
+  },
+};
