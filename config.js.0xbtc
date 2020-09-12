@@ -5,7 +5,7 @@ module.exports = {
   },
   child: {
     RPC: "https://rpc-mainnet.matic.network",
-    DERC20: "0x578360AdF0BbB2F10ec9cEC7EF89Ef495511ED5f",  // CHILD ADDRESS https://explorer.matic.network/address/0x71B821aa52a49F32EEd535fCA6Eb5aa130085978/contracts
+    DERC20: "0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",  // CHILD ADDRESS https://explorer.matic.network/address/0x71B821aa52a49F32EEd535fCA6Eb5aa130085978/contracts
   },
   user: {
     privateKey:
