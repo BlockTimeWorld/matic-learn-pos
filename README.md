@@ -57,3 +57,10 @@ Balance of [YOUR ADDRESS]
 
 Use https://swapmatic.io/swap
 
+# Mapping Your Token
+
+To map your Ethereum Mainnet ERC token to Matic it needs to be mapped. ERC20, ERC721, and ERC1155 tokens are supported.
+
+Read more about mapping and PoS bridge here: https://docs.matic.network/docs/develop/ethereum-matic/pos/getting-started/
+
+Submit your mapping request here https://docs.matic.network/docs/develop/ethereum-matic/submit-mapping-request
