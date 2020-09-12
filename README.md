@@ -37,7 +37,7 @@ wait transaction to be mined
 
 see example https://etherscan.io/tx/0xcdb5bbbf0f923865362d3bc6ef880ebea858b5ae99e602c7e22f91d448b9ef88
 
-## Step 2 Deposit
+## Step 2: Deposit
 
 `node deposit.js`
 
