@@ -52,3 +52,8 @@ WAIT 10 minutes!
 go to https://explorer.matic.network/address/0x578360AdF0BbB2F10ec9cEC7EF89Ef495511ED5f/read_contract
 
 Balance of [YOUR ADDRESS]
+
+## Trade
+
+Use https://swapmatic.io/swap
+
