@@ -65,5 +65,9 @@ Read more about mapping and PoS bridge here: https://docs.matic.network/docs/dev
 
 Submit your mapping request here https://docs.matic.network/docs/develop/ethereum-matic/submit-mapping-request
 
+# Basics
+
 Get your MetaMask ready for MaticNetwork: https://docs.matic.network/docs/develop/network-details/network/
+
+Move Matic tokens to Matic Network (MATIC = ETH) using this: https://wallet.matic.network/
 
