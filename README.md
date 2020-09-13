@@ -64,3 +64,6 @@ To map your Ethereum Mainnet ERC token to Matic it needs to be mapped. ERC20, ER
 Read more about mapping and PoS bridge here: https://docs.matic.network/docs/develop/ethereum-matic/pos/getting-started/
 
 Submit your mapping request here https://docs.matic.network/docs/develop/ethereum-matic/submit-mapping-request
+
+Get your MetaMask ready for MaticNetwork: https://docs.matic.network/docs/develop/network-details/network/
+
