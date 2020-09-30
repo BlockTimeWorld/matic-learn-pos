@@ -23,6 +23,8 @@ Create config.js in root directory, refer contents from config.js.template
 
 Tokens must be mapped by Matic team - you can't do it by yourself.
 
+All currently mapped tokens can be found here: https://docs.matic.network/docs/develop/network-details/mapped-tokens/
+
 # Move Tokens from Mainnet to Matic
 
 `copy config.js.kiwi config.js`
